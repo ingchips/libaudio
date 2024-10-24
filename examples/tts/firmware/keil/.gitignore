@@ -1,0 +1,17 @@
+/listing
+/output
+*.dep
+*.uvgui.*
+*.uvguix.*
+
+/.vscode
+
+*.un~
+*.swp
+*.bak
+*.bin
+*.scvd
+JLink*
+
+!demo.bin
+!sdk/bundles/mini/*/platform.bin

@@ -1,0 +1,10 @@
+/obj
+*.un~
+*.swp
+*.bak
+*.bin
+*.scvd
+JLink*
+
+!demo.bin
+*.axf
